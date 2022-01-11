@@ -1,0 +1,20 @@
+{
+  "name": "bdu_nft_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "dotenv": "^11.0.0",
+    "truffle": "^5.4.28"
+  }
+}
